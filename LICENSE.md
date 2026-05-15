@@ -1,4 +1,4 @@
-# 
+# Enhance DisplayFusion for PC | DisplayFusion for Windows with custom DisplayFusion for PC | DisplayFusion for Windows Module | window-positioning + hotkey-support, the #1 module.
 
 
 
